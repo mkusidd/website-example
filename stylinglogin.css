@@ -1,0 +1,9 @@
+html {
+    background-color: lightgray;
+}
+form {
+    width: 500px;height: 800px;text-align: center;display: inline-block;padding-top: 60px;
+}
+body {
+    text-align: center;
+}
